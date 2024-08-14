@@ -13,19 +13,31 @@ To write a python program to implement Breadth first Search.
 7.   Call the bfs function by passing arguments visited, graph and starting node.
 8.   Stop the program.
 ### Program:
-
-
-
-
-
-
-
-
-
-
+graph={
+    '5':['3', '7'],
+    '3':['2', '4'],
+    '7':['8'],
+    '2':[],
+    '4':['8'],
+    '8':[],
+}
+visited = [] # list for visited nodes
+queue =[] #initialize a queue
+def bfs(visited, graph, node):
+    visited.append(node)
+    queue.append(node)
+    while queue:
+        m=queue.pop(0)
+        print(m)
+        for neighbour in graph[m]:
+            if neighbour not in visited:
+                visited.append(neighbour)
+                queue.append(neighbour)
+print("Following is the breadth-first search")
+bfs(visited, graph,'5') #function calling
 
 ### Output:
-
+<img src = "https://github.com/user-attachments/assets/d8f18687-930b-4ede-a60a-e7b08f089d82" width="600">
 
 
 ### Result:
