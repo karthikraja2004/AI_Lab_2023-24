@@ -39,7 +39,7 @@ bfs(visited, graph,'5') #function calling
 ```
 
 ### Output:
-<img src = "https://github.com/user-attachments/assets/d8f18687-930b-4ede-a60a-e7b08f089d82" width="600">
+<img src = "https://github.com/user-attachments/assets/f600b40f-a94f-4d23-8adf-4d4fcf480157" width="600">
 
 
 ### Result:
