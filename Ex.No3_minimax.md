@@ -45,6 +45,7 @@ print(minimax(0, 0, True, scores, treeDepth))
 
 ### Output:
 
+<img src = "https://github.com/user-attachments/assets/3df50667-705f-4b96-9641-ce1fc8a84c46" width="600">
 <img src = "https://github.com/user-attachments/assets/bcfa87c7-283a-4020-b232-8acb69d72a16" width="600">
 
 ### Result:
