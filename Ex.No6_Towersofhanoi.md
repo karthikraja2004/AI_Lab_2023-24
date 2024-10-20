@@ -1,6 +1,7 @@
 # Ex.No: 6   Logic Programming – Factorial of number   
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 23-09-2024
+### NAME: NANDA KISHORE R
+### REGISTER NUMBER : 212222060157 
 ### AIM: 
 To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG. 
 ### Algorithm:
