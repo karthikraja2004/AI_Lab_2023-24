@@ -1,4 +1,4 @@
-# Ex.No: 6   Logic Programming – Factorial of number   
+# Ex.No: 6   Logic Programming – Tower Of Hanoi 
 ### DATE: 23-09-2024
 ### NAME: NANDA KISHORE R
 ### REGISTER NUMBER : 212222060157 
