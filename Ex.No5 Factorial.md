@@ -12,12 +12,23 @@ To  write  a logic program for finding the factorial of given number using SWI-P
 6. STEP 4: Stop the program.
 
 ### Program:
+```
+def factorial(a):
+    if a == 0:
+        return 1
+    else:
+        return a * factorial(a - 1)
 
+# Example usage:
+n = int(input("Enter a number: "))
+result = factorial(n)
+print(f"Factorial of {n} is {result}")
+```
 
 
 ### Output:
 
-
+<img src = "https://github.com/user-attachments/assets/bbbabf36-c815-4b25-98fb-2ccd7ce733a8" width="600">
 
 ### Result:
 Thus the factorial of given number was found by logic programming. 
