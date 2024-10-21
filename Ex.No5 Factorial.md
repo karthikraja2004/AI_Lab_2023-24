@@ -26,6 +26,8 @@ factorial(N, Result) :-
 ```
 
 
+
+
 ### Output:
 
 <img src = "https://github.com/user-attachments/assets/c883ff4f-d5c5-482e-99b9-fdfc320dcb9f" width="600">
