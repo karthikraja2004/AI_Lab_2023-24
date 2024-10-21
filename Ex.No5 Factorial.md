@@ -14,22 +14,21 @@ To  write  a logic program for finding the factorial of given number using SWI-P
 
 ### Program:
 ```
-def factorial(a):
-    if a == 0:
-        return 1
-    else:
-        return a * factorial(a - 1)
+% Base case: factorial of 0 is 1
+factorial(0, 1).
 
-# Example usage:
-n = int(input("Enter a number: "))
-result = factorial(n)
-print(f"Factorial of {n} is {result}")
+% Recursive case: factorial of N is N * factorial(N-1)
+factorial(N, Result) :-
+    N > 0,
+    N1 is N - 1,
+    factorial(N1, F1),
+    Result is N * F1.
 ```
 
 
 ### Output:
 
-<img src = "https://github.com/user-attachments/assets/bbbabf36-c815-4b25-98fb-2ccd7ce733a8" width="600">
+<img src = "https://github.com/user-attachments/assets/c883ff4f-d5c5-482e-99b9-fdfc320dcb9f" width="600">
 
 ### Result:
 Thus the factorial of given number was found by logic programming. 
