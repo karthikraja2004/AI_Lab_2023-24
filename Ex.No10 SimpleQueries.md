@@ -40,8 +40,7 @@ eats(bill, peanuts).
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/231b44e3-3a1c-4806-8bfa-4e1b225d7680)
-
+<img src = "https://github.com/user-attachments/assets/231b44e3-3a1c-4806-8bfa-4e1b225d7680" width="600">
 
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
@@ -72,8 +71,7 @@ department_have_fun(bk301).
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/6a8f07dd-4184-4634-b128-119c42e9a194)
-
+<img src = "https://github.com/user-attachments/assets/6a8f07dd-4184-4634-b128-119c42e9a194" width="600">
 
 ### Task 3:
 Consider the statement <br> 
@@ -108,8 +106,7 @@ weapon(missile).
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/b662529b-9c7a-4d5a-8505-d3016527605a)
-
+<img src = "https://github.com/user-attachments/assets/b662529b-9c7a-4d5a-8505-d3016527605a" width="600">
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
