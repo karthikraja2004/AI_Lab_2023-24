@@ -3,7 +3,7 @@
 ### NAME: NANDA KISHORE R
 ### REGISTER NUMBER : 212222060157
 ### AIM: 
-To write a program to train the classifier for -----------------.
+To write a program to train a route optimization model using Ridge Regression
 ###  Algorithm:
 Step 1: Load the AI model using joblib.
 Step 2: Check if the model has feature names to ensure input consistency.
