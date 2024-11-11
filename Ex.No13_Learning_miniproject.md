@@ -1,5 +1,5 @@
 # Ex.No: 10 Learning – Mini Project - Route Optimization Model Using Ridge Regression 
-### DATE: 23/10/2024       
+### DATE: 14/10/2024       
 ### NAME: NANDA KISHORE R
 ### REGISTER NUMBER : 212222060157
 ### AIM: 
