@@ -1,5 +1,5 @@
 # Ex.No: 10 Learning – Mini Project - Route Optimization Model Using Ridge Regression 
-### DATE:        
+### DATE: 23/10/2024       
 ### NAME: NANDA KISHORE R
 ### REGISTER NUMBER : 212222060157
 ### AIM: 
@@ -113,6 +113,9 @@ print("F1 Score:", f1)
 ```
 
 ### Output:
+
+![Screenshot 2024-11-05 055509](https://github.com/user-attachments/assets/eb3a149a-28a3-4902-a5ce-0b73a8948830)
+![Screenshot 2024-11-05 055633](https://github.com/user-attachments/assets/2bf65faf-ba48-46f4-8ae8-84c0a17c643d)
 
 
 ### Result:
