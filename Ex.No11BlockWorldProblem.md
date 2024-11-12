@@ -1,4 +1,4 @@
-# Ex.No: 11  Planning –  Block World Problem 
+# Ex.No: 11  Implementation of Block World Problem 
 ### DATE: 21.10.2024          
 ### NAME: NANDA KISHORE R
 ### REGISTER NUMBER : 212222060157
