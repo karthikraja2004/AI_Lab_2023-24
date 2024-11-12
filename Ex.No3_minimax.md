@@ -1,5 +1,5 @@
 # Ex.No: 3  Implementation of Minimax Search
-### DATE: 12-09-2024
+### DATE: 26-08-2024
 ### NAME: NANDA KISHORE R
 ### REGISTER NUMBER : 212222060157
 ### AIM: 
