@@ -1,5 +1,5 @@
 # Ex.No: 4   Implementation of Alpha Beta Pruning 
-### DATE: 12-09-2024
+### DATE: 26-08-2024
 ### NAME: NANDA KISHORE R                                                                     
 ### REGISTER NUMBER : 212222060157
 ### AIM: 
