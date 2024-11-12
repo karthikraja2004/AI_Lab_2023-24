@@ -1,5 +1,5 @@
 # Ex.No: 5   Logic Programming – Factorial of number   
-### DATE: 23-09-2024
+### DATE: 02-09-2024
 ### NAME: NANDA KISHORE R
 ### REGISTER NUMBER : 212222060157
 ### AIM: 
