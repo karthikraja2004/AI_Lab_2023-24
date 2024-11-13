@@ -1,7 +1,7 @@
 # Ex.No: 12  Implementation Monkey Banana Problem
-### DATE: 28.10.2024     
-### NAME: NANDA KISHORE R
-### REGISTER NUMBER : 212222060157
+### DATE: 10.10.2024   
+### NAME: KARTHIK R		
+### REGISTER NUMBER : 212221040074
 ### AIM: 
 To find the sequence of plan for Monkey Banana problem using PDDL Editor.
 ###  Algorithm:
